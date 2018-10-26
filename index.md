@@ -603,6 +603,7 @@ and our administrator may contact you if we need any extra information.</h4>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
+{% comment %}
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
@@ -747,7 +748,6 @@ and our administrator may contact you if we need any extra information.</h4>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
-{% comment %}
 <div id="vm">
   <h3>Virtual Machine</h3>
 
