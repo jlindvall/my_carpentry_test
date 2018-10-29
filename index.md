@@ -165,6 +165,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <hr/>
 
+{% comment %}
+REGISTRATION LINK
+{% endcomment %}
+<h2 id="Registration">Registration</h2>
+<p>Link to the registration page: <a href="https://www.hd-hub.de/course-dates/3-all/38-swc-2018-quilmes">https://www.hd-hub.de/course-dates/3-all/38-swc-2018-quilmes</a></p>
+<hr/>
+
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
@@ -181,13 +188,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
 
-<hr/>
-
-{% comment %}
-REGISTRATION LINK
-{% endcomment %}
-<h2 id="Registration">Registration</h2>
-<p>Link to the registration page: https://www.hd-hub.de/course-dates/3-all/38-swc-2018-quilmes</p>
 <hr/>
 
 {% comment %}
