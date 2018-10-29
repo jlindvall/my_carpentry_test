@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "Computational Skills for Life Scientists, Universidad Nacional de Quilmes"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "[Universidad Nacional de Quilmes](www.unq.edu.ar) [Google map](https://goo.gl/maps/4iEZxGsG7qG2)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Universidad Nacional de Quilmes (Google map: https://goo.gl/maps/4iEZxGsG7qG2)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "Argentina"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: ""       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
