@@ -758,6 +758,7 @@ REGISTRATION LINK
     </li>
   </ol>
 </div>
+{% endcomment %}
 
 <p>
   <strong>Sponsors and supporters:</strong> 
@@ -766,4 +767,3 @@ REGISTRATION LINK
 ![](https://www.eduopinions.com/wp-content/uploads/2017/07/Universidad-Nacional-de-Quilmes-logo-.png)
 ![](http://idpfun.eu/)
 ![](https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg)
-{% endcomment %}
